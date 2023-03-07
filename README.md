@@ -8,3 +8,7 @@
    2.1 creact social link
    2.2 create data
    2.3 create Scroll Down button
+3. Create about components
+   3.1 create box
+   3.2 create info
+   3.3 create CV
