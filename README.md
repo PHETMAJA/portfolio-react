@@ -12,3 +12,5 @@
    3.1 create box
    3.2 create info
    3.3 create CV
+4. Create about components
+   4.1 crate frontend/ backend data
