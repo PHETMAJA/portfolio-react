@@ -27,9 +27,9 @@ export default function Header() {
                 </a>
               </li>
               <li className="nav__item">
-                <a href="#skill" className="nav__link">
+                <a href="#skills" className="nav__link">
                   <i className="uil uil-file nav__icon"></i>
-                  Skill
+                  Skills
                 </a>
               </li>
               <li className="nav__item">
