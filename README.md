@@ -19,3 +19,4 @@
    5.2 setToggle for modal
 6. Create qualification component
 7. Create contact component
+8. Create footer component
