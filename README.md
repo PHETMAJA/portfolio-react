@@ -17,3 +17,4 @@
 5. Create servives example
    5.1 create modal
    5.2 setToggle for modal
+6. Create qualification component
